@@ -1,1 +1,3 @@
-#!/bin/bash echo"This project is cool" echo ""[Da lot of fun in here"
+#!/bin/bash
+echo "The project is cool"
+echo "a lot of fun in here"
