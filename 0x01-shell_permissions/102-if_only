@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -fromguillaume[D[D[D[D[D[D[D[D[D=guillame betty hello
+sudo chown --from=guillaume betty hello
