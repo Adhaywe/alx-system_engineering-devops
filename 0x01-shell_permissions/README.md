@@ -1,1 +1,1 @@
-A new projec on shell permissions
+This is a directory for the shell permission tasks.
