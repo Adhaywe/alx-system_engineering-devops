@@ -1,2 +1,2 @@
 #!/bin/bash
-find type[D[D[.type d -name '.' | wc -l[D[D[D[D[D[D[D[D
+find .type d -not -name "." |wc -l
