@@ -1,0 +1,2 @@
+#!/bin/bash
+find .type f name ".*js[D[D[D[C[C[*.js" -delete
