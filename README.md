@@ -1,1 +1,2 @@
-this repository contains files that have linux commands.
+## Shell Projects
+Different projects on shells.
