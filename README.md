@@ -1,1 +1,1 @@
-This is all about shells and I am learning a lot day by day.
+this repository contains files that have linux commands.
